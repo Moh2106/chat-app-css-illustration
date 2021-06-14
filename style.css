@@ -155,15 +155,17 @@ p{
     left: 0%;
     top: 100%;
     z-index: auto;
-    margin: 3em;
+    margin-left: 1em;
+    margin-right: 1em;
+    margin-top: 1em;
   }
 
   .message-right{
-    width: 70%;
+    width: 75%;
   }
 
   .message-left{
-    width: 70%;
+    width: 75%;
   }
 
   .dog-image{
