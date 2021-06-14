@@ -158,4 +158,18 @@ p{
     margin: 3em;
   }
 
+  .message-right{
+    width: 70%;
+  }
+
+  .message-left{
+    width: 70%;
+  }
+
+  .dog-image{
+    width: 40px;
+    border-radius: 20%;
+    padding: 5px;
+  }
+
 }
