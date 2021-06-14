@@ -143,7 +143,7 @@ p{
     background: hsl(270, 20%, 96%);
     box-shadow: 0px 0px 20px rgb(255,255,255) inset;
     position: absolute;
-    top: 15%;
+    top: 10%;
     left: 15%;
     z-index: 100;
   }
@@ -155,7 +155,8 @@ p{
     left: 0%;
     top: 100%;
     z-index: auto;
-    /*margin: 3em;*/
+    margin-left: 1em;
+    margin-right: 1em;
   }
 
   .message-right{
@@ -182,7 +183,10 @@ p{
 
   p{
     font-size: 12px;
-    font-family: 'Rubik', sans-serif;
+  }
+
+  .message h1{
+    font-size: 1em;
   }
 
 }
